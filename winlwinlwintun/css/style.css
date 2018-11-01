@@ -1,0 +1,69 @@
+.bold{
+	font-family:"Masterpiece Uni Sans",Myanmar3,Padauk,Zawgyi-One;
+}
+.slideimg{
+	width: 80%;
+	height: 500px;
+}
+.linespace{
+	border:2px solid #fff;
+}
+.examsection,.knowledgesection,.aboutsection,.contactsection{
+	padding: 20px;
+}
+.cardsite{
+	margin-bottom: 16px;
+}
+hr.thick {
+  margin: 30px auto;
+  width: 150px;
+  height: 4px;
+  border: none;
+  background: #289a99;
+}
+.exambtn,.knowledgebtn,.submitbtn{
+	padding: 25px;
+	text-align: center;
+}.underline{
+	border-top: 3px solid #289a99;
+  	margin-top: 0;
+  	margin-bottom: 0;
+}
+.courseimg{
+	width: 100px;
+	height: 200px;
+}
+.contactlist{
+	padding: 16px;
+	font-style: italic;
+}
+.footersite{
+	width: 100%;
+	height: 65px;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+.footera{
+	color: #fff;
+}
+
+
+
+@font-face {
+font-family:'Myanmar3';
+src:local('Myanmar3'), url('fonts/myanmar3.woff') format('woff'), 
+url('fonts/myanmar3.ttf') format('ttf');
+}
+@font-face {
+font-family:'Padauk';
+src:local('Padauk'), url('fonts/padauk.woff') format('woff'),
+url('fonts/padauk.ttf') format('ttf');
+}
+@font-face {
+font-family:'Zawgyi-One';
+src:local('Zawgyi-One'), url('fonts/zawgyi.woff') format('woff'), 
+url('fonts/zawgyi.ttf') format('ttf');
+}
+
+
